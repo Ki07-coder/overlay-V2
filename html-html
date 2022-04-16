@@ -1,0 +1,10 @@
+<!--Particles-->
+<!--Für die Library "ParticlesJS" benötigen wir eine div, wo die Partikel drin sind.-->
+  <div id="particles-js"></div>
+  
+<!--On Reload-->
+  <div id="bg">
+    <div id="top"></div>
+    <div id="right"></div>
+    <div id="msg">lädt...</div>
+  </div>
